@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emmatheinvestor
+- 👋 Hi, I’m @AEA_RedGEM
 - 👀 I’m interested in BLOCKCHAIN TECHNOLOGIES
-- 🌱 I’m currently learning solidity and token development
+- 🌱 I’m currently learning solidity and blockchain development
 - 💞️ I’m looking to collaborate on cryptocurrency exchange development
 - 📫 How to reach me: WhatsApp (+2348149637835)
 
